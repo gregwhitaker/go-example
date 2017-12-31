@@ -1,8 +1,21 @@
 # go-example
 Small Go example that makes an HTTP request and parses the response.
 
-## Running the Example
+## Build
+Build the application using the following command:
 
+    $ go build
+
+## Run
+Run the application using the following command:
+
+    $ ./go-example
+    
+You should see the following in the console:
+
+    Running Example...
+    Args: 1
+    
 ## Bugs and Feedback
 For bugs, questions, and discussions please use the [Github Issues](https://github.com/gregwhitaker/go-example/issues).
 
